@@ -2,7 +2,7 @@
 
 # Pinncale API
 Real time data
-PinBook Sport API is a RESTful service for getting pre-match and live odds like Pinnacle. Historical odds, score and results
+PinBook Sport API is a RESTful service for getting pre-match and live odds like Pinnacle. Historical odds, score and results!
 
 ⚡ [Connect API Quickstart](https://pinbook.bapi.info/quickstart)
 
